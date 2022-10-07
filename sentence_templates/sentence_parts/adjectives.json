@@ -1,0 +1,18 @@
+{
+  "positive": [
+    "beautiful",
+    "awesome",
+    "successful",
+    "cool"
+  ],
+
+  "neutral": [
+    "adequate",
+    "usual"
+  ],
+
+  "negative": [
+    "shitty",
+    "foolish"
+  ]
+}

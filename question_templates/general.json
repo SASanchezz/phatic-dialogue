@@ -1,0 +1,30 @@
+{
+  "where": {
+
+    "default_answer": "Probably it is somewhere in distant lands"
+  },
+
+  "what": {
+    "personal": {
+      "match": ["is your", "do you"],
+      "default_answer": ["We are not so close to talk about it"]
+    },
+    "default_answer": "Ohh, what, what, what, what.. Don't wanna talk about it"
+  },
+
+  "who": {
+    "personal": {
+      "match": ["is your"],
+      "default_answer": ["I don't think that I should talk about it with strangers"]
+    },
+    "default_answer": "Who... "
+  },
+
+  "how": {
+    "personal": {
+      "match": ["was your day"],
+      "default_answer": ["Well... Thanks"]
+    },
+    "default_answer": "Are you serious? "
+  }
+}

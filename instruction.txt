@@ -1,0 +1,5 @@
+Use "py main.py" in terminal from root directory
+
+Talk with bot
+
+To exit print "bye"
